@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/robbycarter/robbycarter)](https://badges.pufler.dev)
+
 
 - 👋 Hi, I’m @robbycarter
 - 👀 I’m interested in ... Node Js,Express, React , Next JS, Graphql, Apollo, Typescript
@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on ... Node Js,Express, React, Typescript. GraphQl Projects
 - 📫 How to reach me ... quainoo.robert@gmail.com or on IG [Robby_Carter_](https://www.instagram.com/robby_carter_/)
 
+[![Visits Badge](https://badges.pufler.dev/visits/robbycarter/robbycarter)](https://badges.pufler.dev)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,12 +27,12 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
