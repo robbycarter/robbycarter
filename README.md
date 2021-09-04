@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/robbycarter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbycarter&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbycarter&hide=html,css&show_icons=true&line_height=27&count_private=true&theme=dark&title_color=ffffff&text_color=c9cacc" />
 </a>
 
 <a href="https://github.com/robbycarter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=robbycarter&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Robby's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=robbycarter&show_icons=true&line_height=27&count_private=true&theme=dark&title_color=ffffff&text_color=c9cacc" alt="Robby's GitHub Stats" />
 </a>
 
 <br>
@@ -48,7 +48,7 @@
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 <br>
 
-![](https://img.shields.io/badge/Tools-PM2-informational?style=flat&logo=pm2&logoColor=white&color=2B037A)
+![](https://img.shields.io/badge/Tools-PM2-informational?style=flat&logo=pm2&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
@@ -58,6 +58,14 @@
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
  </details>
+ 
+ 
+<h2> Social Media </h2>
+  <a href="https://www.instagram.com/robby_carter_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:quainoo.robert@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.youtube.com/channel/UCZu1MPrSOiX0iDQOdoORUzg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.linkedin.com/in/robert-quainoo-076704b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   <a href="https://discord.gg/vB4enSWqdy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 <!---
 robbycarter/robbycarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
