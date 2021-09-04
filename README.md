@@ -24,7 +24,7 @@
 
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robbycarter" alt="robbycarter" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robbycarter&no-bg=true&margin-w=15&theme=onedark" alt="robbycarter" /></a> </p>
 
 <br>
 <br>
