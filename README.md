@@ -1,6 +1,8 @@
 
 
-- 👋 Hi, I’m @robbycarter
+<h1 align="center" style="text-align: center;margin: 25px 50px"> 👋 Hi, I’m Robby </h1>
+<br>
+  
 - 👀 I’m interested in ... Node Js,Express, React , Next JS, Graphql, Apollo, Typescript
 - 🌱 I’m currently learning ... React ,Redux, Redux Toolkit, Next JS, Graphql, Apollo, Typescript
 - 💞️ I’m looking to collaborate on ... Node Js,Express, React, Typescript. GraphQl Projects
