@@ -30,6 +30,22 @@
 <br>
 
 
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/robbycarter/aws-s3-uploader">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=robbycarter&repo=aws-s3-uploader&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/robbycarter/RPG_Character_Customization">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=robbycarter&repo=RPG_Character_Customization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
