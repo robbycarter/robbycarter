@@ -6,9 +6,12 @@
 - 👀 I’m interested in ... Node Js,Express, React , Next JS, Graphql, Apollo, Typescript
 - 🌱 I’m currently learning ... React ,Redux, Redux Toolkit, Next JS, Graphql, Apollo, Typescript
 - 💞️ I’m looking to collaborate on ... Node Js,Express, React, Typescript. GraphQl Projects
-- 📫 How to reach me ... quainoo.robert@gmail.com or on IG [Robby_Carter_](https://www.instagram.com/robby_carter_/)
+- 📫 How to reach me ... quainoo.robert@gmail.com
 
 [![Visits Badge](https://badges.pufler.dev/visits/robbycarter/robbycarter)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/robbycarter)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/robbycarter)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/robbycarter)](https://badges.pufler.dev)
 
 ## &#x1f4c8; GitHub Stats
 
