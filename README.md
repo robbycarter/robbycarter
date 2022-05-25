@@ -12,8 +12,16 @@
 [![Years Badge](https://badges.pufler.dev/years/robbycarter)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/robbycarter)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/robbycarter)](https://badges.pufler.dev)
+[![Commits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{robbycarter}1212%2Fhit-counter)](https://badges.pufler.dev)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/robbycarter)
+![Profile views](https://gpvc.arturio.dev/robbycarter)
+[![GitHub followers](https://img.shields.io/github/followers/robbycarter.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/robbycarter?tab=followers)
 
 ## &#x1f4c8; GitHub Stats
+
+<br>
+
+[![Sparkline](https://stars.medv.io/robbycarter/badges.svg)](https://stars.medv.io/robbycarter/badges)
 
 <br>
 
