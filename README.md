@@ -19,9 +19,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 
-[![Sparkline](https://stars.medv.io/robbycarter/badges.svg)](https://stars.medv.io/robbycarter/badges)
 
 <br>
 
